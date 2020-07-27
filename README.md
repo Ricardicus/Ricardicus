@@ -3,8 +3,7 @@
 My name is Rickard :ocean:
 and I do intermittend code posting and pull requesting here.
 
-In the world :earth_africa: of software I am
-primarily interested in: 
+In the :earth_africa: of :computer: I have yet found interested in: 
 * embedded development
 * ML 
 * languages
