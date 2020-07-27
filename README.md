@@ -1,6 +1,6 @@
 **Hi** :wave:
 
-I do intermittend code posting and pull requesting here. 
+I do intermittent code posting and pull requesting here. 
 
 In the :earth_africa: of :computer: I have yet taken interest in things like: 
 * embedded development
