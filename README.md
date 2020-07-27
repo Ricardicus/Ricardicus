@@ -1,8 +1,6 @@
 **Hi** :wave:
 
-I do intermittent code posting and pull requesting here. 
-
-In the :earth_africa: of :computer: I have yet taken interest in things like: 
+In the world of computers I have yet taken interest in things like: 
 * embedded development
 * communication protocols
 * ML, checkout my [LSTM](https://github.com/Ricardicus/recurrent-neural-net) implementation
