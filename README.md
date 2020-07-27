@@ -1,6 +1,7 @@
 # Hello there :ocean:
 
-I sometimes post code here.
+I do intermittend code posting and pull requesting here.
+
 In the world :earth_africa: of software I am
 primarily interested: 
 * embedded development
