@@ -10,4 +10,5 @@ primarily interested in:
 * ML 
 * languages
 
-
+Feel free to investigate my repos and feel free file an issue or pull request if
+anything comes to mind. 
