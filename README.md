@@ -7,4 +7,4 @@ In the software world I have yet taken interest in things like:
 * languages, checkout this [language](https://github.com/Ricardicus/ric-script) I am working on
 
 Feel free to investigate my repos and please file an issue or pull request if
-anything comes to mind. 
+you see anything completely crazy.
