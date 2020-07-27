@@ -8,5 +8,5 @@ In the :earth_africa: of :computer: I have yet found interested in:
 * ML 
 * languages
 
-Feel free to investigate my repos and feel free to file an issue or pull request if
+Feel free to investigate my repos and please file an issue or pull request if
 anything comes to mind. 
