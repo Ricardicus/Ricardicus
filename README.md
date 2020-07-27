@@ -1,6 +1,6 @@
 **Hi** :wave:
 
-In the world of computers I have yet taken interest in things like: 
+In the software world I have yet taken interest in things like: 
 * embedded development
 * communication protocols
 * ML, checkout my [LSTM](https://github.com/Ricardicus/recurrent-neural-net) implementation
