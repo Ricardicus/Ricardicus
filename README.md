@@ -1,6 +1,6 @@
 # Hello there :wave:
 
-My name is Rickard :wave:
+My name is Rickard :ocean:
 and I do intermittend code posting and pull requesting here.
 
 In the world :earth_africa: of software I am
