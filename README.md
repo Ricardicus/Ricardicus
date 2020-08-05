@@ -5,7 +5,7 @@ you see anything that is completely crazy.
 
 **Most common languages in my repos**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardicus)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardicus)](https://github.com/anuraghazra/github-readme-stats&theme=dark =100x100)
 
 
 **Contributions on Github**
