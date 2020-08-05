@@ -5,11 +5,11 @@ you see anything that is completely crazy.
 
 **Most common languages in my repos**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardicus&theme=dark)](https://github.com/Ricardicus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardicus&theme=cobalt)](https://github.com/Ricardicus)
 
 
 **Contributions on Github**
 
 My goal is to contribute more to open source projects, so I hope to upgrade these stats I show you below.
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=ricardicus&theme=dark)](https://github.com/anuraghazra/Ricardicus)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=ricardicus&theme=cobalt)](https://github.com/anuraghazra/Ricardicus)
