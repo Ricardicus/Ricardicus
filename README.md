@@ -11,5 +11,6 @@ you see anything that is completely crazy.
 **Contributions on Github**
 
 My goal is to contribute more to open source projects, so I hope to upgrade these stats I show you below.
+Quality over quantity is the rule...
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=ricardicus&theme=cobalt)](https://github.com/anuraghazra/Ricardicus)
